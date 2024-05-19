@@ -1,11 +1,11 @@
-package com.codurance.training.tasks;
+package com.task.tasks;
 
 import java.time.LocalDate;
 
 public final class Task {
     private final String id;
     private final String description;
-    private LocalDate deadline;  // Make this non-final to allow modification
+    private LocalDate deadline;
     private boolean done;
 
     public Task(String id, String description, LocalDate deadline, boolean done) {

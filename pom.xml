@@ -43,7 +43,7 @@
                     <programs>
                         <program>
                             <id>task-list</id>
-                            <mainClass>com.codurance.training.tasks.TaskList</mainClass>
+                            <mainClass>com.task.main</mainClass>
                         </program>
                     </programs>
                 </configuration>

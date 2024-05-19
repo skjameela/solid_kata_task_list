@@ -1,4 +1,4 @@
-package com.codurance.training.actions;
+package com.task.actions;
 
 public interface TaskActions {
     void show();

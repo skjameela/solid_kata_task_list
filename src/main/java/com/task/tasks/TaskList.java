@@ -1,6 +1,6 @@
-package com.codurance.training.tasks;
+package com.task.tasks;
 
-import com.codurance.training.executioner.impl.TaskExecutionerImpl;
+import com.task.executioner.impl.TaskExecutionerImpl;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,7 +1,7 @@
-package com.codurance.training.actions.impl;
+package com.task.actions.impl;
 
-import com.codurance.training.actions.TaskActions;
-import com.codurance.training.tasks.Task;
+import com.task.actions.TaskActions;
+import com.task.tasks.Task;
 
 import java.io.PrintWriter;
 import java.time.LocalDate;

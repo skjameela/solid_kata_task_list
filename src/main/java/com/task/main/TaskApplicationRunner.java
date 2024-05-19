@@ -1,6 +1,6 @@
-package com.codurance.training.main;
+package com.task.main;
 
-import com.codurance.training.tasks.TaskList;
+import com.task.tasks.TaskList;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

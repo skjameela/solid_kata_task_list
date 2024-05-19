@@ -1,7 +1,7 @@
-package com.codurance.training.executioner.impl;
+package com.task.executioner.impl;
 
-import com.codurance.training.actions.impl.TaskActionsImpl;
-import com.codurance.training.executioner.TaskExecutioner;
+import com.task.actions.impl.TaskActionsImpl;
+import com.task.executioner.TaskExecutioner;
 
 public class TaskExecutionerImpl implements TaskExecutioner {
     TaskActionsImpl taskActions = new TaskActionsImpl();
